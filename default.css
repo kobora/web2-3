@@ -6,10 +6,6 @@
       </title>
       <style>
         @import url(“css/default.css”);
-    </style >
-    </head>
-    <body>
-
 @charset"UTM-8
   h1{
     font-aize:1.75em;
@@ -43,6 +39,11 @@ address{
   a:hover{
   color:#f705b;
   }
+    </style >
+    </head>
+    <body>
+
+<h1>あ</h1>
     
     background-color:#fbe9cc
    
