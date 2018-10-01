@@ -4,9 +4,9 @@
         <meta charset=“utf-8” />
       <title><h1>ニードルフェルト集</h1>
       </title>
-       <style type=“text/css”>
-	p{color:blue}
-    </style>
+      <style>
+        @import url(“css/default.css”);
+    </style >
     </head>
     <body>
 
