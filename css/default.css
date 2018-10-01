@@ -1,6 +1,8 @@
 @charset "UTF-8"
  body{
   background-color: #dda0dd;
+  background-image: ur1(../img/タイトル画面.jpg);
+  background-repeat: repeat-x;
 }
   h1{
     font-aize:1.75em;
