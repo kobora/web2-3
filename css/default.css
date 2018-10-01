@@ -1,6 +1,9 @@
 
  
-@charset"UTM-8
+@charset "UTF-8"
+ body{
+  background-color:#eeeeee
+}
   h1{
     font-aize:1.75em;
     color:#3399cc;
