@@ -1,15 +1,29 @@
-<D
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset=“utf-8” />
+      <title><h1>ニードルフェルト集</h1>
+      </title>
+<link rel=“stylesheet” href=“css/default.css” type=“text/css”>
+    </head>
+    <body>
 
 @charset"UTM-8
   h1{
     font-aize:1.75em;
     color:#3399cc;
     text-align:center;
-    border:#94c8b1 1px dotted;
+  
 }
 h2{
+  font-size:1.25em;
+  
 
 a{
-  color:#
+  color:#d0e35b;
+  }
     
-    background
+    background-color:#fbe9cc
+    background-image:url(../img);
+  backgound-:repeat-x;
+</body>
