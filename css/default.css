@@ -27,8 +27,9 @@ h2{
     font-size: 0.75em;
     font-style: italic;
 }     
-. greeting{
+greeting{
     border-top: #6fbb9a 1px dotted;
+ text-align:center;
 
     text-align: center;
 }
