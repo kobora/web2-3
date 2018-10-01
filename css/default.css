@@ -28,11 +28,18 @@ h2{
     font-style: italic;
 }     
 greeting{
-    border-top: #6fbb9a 1px dotted;
+    border-top: #7711aa 1px dotted;
  text-align:center;
 
     text-align: center;
 }
+ #lead{
+    border-top: #7711ab 1px dotted;
+  
+    text-align: center;
+}
+
+
 
   
    
