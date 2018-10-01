@@ -26,7 +26,8 @@ h2{
      address{
     font-size: 0.75em;
     font-style: italic;
-}     
+} 
+<h1><span>★</span>こんにちは<span>★</span></h1>
 greeting{
     border-top: #7711aa 1px dotted;
  text-align:center;
