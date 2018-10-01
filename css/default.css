@@ -1,7 +1,7 @@
 @charset "UTF-8"
  body{
   background-color: #dda0dd;
-  background-image: ur1(../タイトル画面.jpg);
+  background-image: ur1(../img/taitl.jpg);
   background-repeat: repeat-x;
 }
   h1{
