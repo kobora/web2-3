@@ -27,5 +27,11 @@ h2{
     font-size: 0.75em;
     font-style: italic;
 }     
-    background-color:#fbe9cc
+. greeting{
+    border-top: #6fbb9a 1px dotted;
+
+    text-align: center;
+}
+
+  
    
